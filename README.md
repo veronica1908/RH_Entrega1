@@ -1,1 +1,4 @@
-# ANALITICA3_RH_E1
+Ejercicio de analítica aplicada a recursos humanos, del curso analítica 3 de ingeniería industrial de la Universidad de Antioquia.
+César Iván Díaz
+Verónica A. Morales G.
+2024-1
