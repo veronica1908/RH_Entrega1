@@ -1,4 +1,4 @@
--- En primer lugar impartamos la babses de datos al entorno
+-- En primer lugar importamos la babses de datos al entorno
 .mode csv
 .import '/content/drive/MyDrive/Analitica 3/employee_survey_data.csv' employee_survey_data
 .import '/content/drive/MyDrive/Analitica 3/manager_survey.csv' manager_survey_data
