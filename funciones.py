@@ -36,7 +36,7 @@ def ejecutar_sql (nombre_archivo, cur):
   sql_file.close
   cur.executescript(sql_as_string)
 
-#funcion para comparar los desempeños de modelos
+
 def sel_variables(modelos,X,y,threshold):
     
     var_names_ac=np.array([])
